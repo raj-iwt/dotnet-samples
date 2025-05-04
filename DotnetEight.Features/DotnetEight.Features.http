@@ -1,0 +1,6 @@
+@DotnetEight.Features_HostAddress = http://localhost:5215
+
+GET {{DotnetEight.Features_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bvO8+JedwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajbe\\source\\repos\\raj-iwt\\dotnet-samples\\DotnetEight.Features\\DotnetEight.Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajbe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\rajbe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
